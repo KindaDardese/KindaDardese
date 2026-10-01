@@ -47,7 +47,6 @@ actually works under the hood.
 
 ### Automation
 ![Blue Prism](https://img.shields.io/badge/Blue_Prism-1F4E79?style=for-the-badge)
-![RPA](https://img.shields.io/badge/RPA-5C2D91?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,18 +68,3 @@ time-based validation, holidays, and Ramadan-related features.
 🔹 **MajorGuide**  
 AI-powered career/major recommendation concept combining personality
 assessment, VR/3D experiences, and AI recommendations.
-
----
-
-## 📊 GitHub Stats
-
-![Kinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
----
-
-## 📫 Connect With Me
-
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
